@@ -1,1 +1,2 @@
-# Pension-Salary-Progression-Calculator-for-Lagos-State
+The Lagos State Pension Commission currently relies on manual methods for tracking and computing salary progression, grade levels, and step advancements. This process is time-consuming, error-prone, and inefficient, leading to inconsistencies in pension computations.
+To address these challenges, we propose a custom-built software solution designed to fully automate salary progression calculations, ensuring accuracy, efficiency, and compliance with the state's pension regulations. This solution will replace manual spreadsheets and provide a centralized, error-free, and structured approach to managing salary progression.
